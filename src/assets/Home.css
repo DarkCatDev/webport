@@ -1,0 +1,47 @@
+.header {
+    color: azure;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    margin-top: 15%;
+    padding: 0%;
+}
+
+.my-title {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    padding-bottom: 0%;
+    margin-bottom: -40px;
+}
+
+.sub-title {
+    padding-top: 0%;
+    font-size: 20px;
+    font-family:cursive;
+    margin-top: -30px;
+}
+
+.home-bar{
+    display: flex;
+    flex-direction: row;
+    gap: 30px;
+    border-top: 2px solid white;
+    border-bottom: 2px solid white;
+    padding: 5px;
+
+}
+
+#home-buttons {
+    background-color: transparent;
+    color: aliceblue;
+    border-color: transparent;
+    font-size: larger;
+    font-family: 'Courier New', Courier, monospace;
+    cursor: pointer;
+}
+
+.quote {
+    margin-top: 5%;
+    font-size: 20px;
+}
