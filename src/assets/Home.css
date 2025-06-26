@@ -80,7 +80,9 @@
     }
 
     .home-bar {
-        font-size: 7px;
+        font-size: 10px;
+        gap: 10px;
+
     }
 
     .quote {
@@ -101,7 +103,7 @@
     }
 
     .home-bar {
-        font-size: 7px;
+        font-size: 10px;
         gap: 10px;
     }
 
