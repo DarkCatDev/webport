@@ -38,7 +38,7 @@ function Projects(){
           <img src={gna} alt="404" />
           <p>G.N.A.!</p>
           <p>Android Development</p>
-          <p>Status: In Devolopment</p>
+          <p>Status: In Development</p>
         </div>
         <div className="prj">
           <img src={olm} alt="404" />
