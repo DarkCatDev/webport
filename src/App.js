@@ -10,7 +10,7 @@ import Devlog from './pages/Devlog';
 
 function App() {
   return (
-    <Router>
+    <Router basename='/webport'>
       <Routes>
         <Route path="/" element={<Home/>}/>
         <Route path="/projects" element={<Projects/>}/>
