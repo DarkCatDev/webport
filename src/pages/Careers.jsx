@@ -60,6 +60,7 @@ function Careers() {
                         <p><strong>BS Computer Science 2021-2025</strong></p>
                         <strong>Partido State University</strong>
                         <p>San Juan Evangelista Street, Goa, Camarines Sur</p>
+                        <p>GWA: 1.7993</p>
                     </div>
                 </div>
             </div>
