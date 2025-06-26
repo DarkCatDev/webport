@@ -22,3 +22,11 @@
         font-size: small;
     }
 }
+
+
+@media (max-width: 412px){
+    .vlog {
+        width: 280px;
+        font-size: small;
+    }
+}
