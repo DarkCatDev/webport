@@ -36,6 +36,10 @@ function Devlog(){
           <div className='caption-title'> <h4>Devlog #1: My First Web Porfolio</h4></div>
           <div className='caption-content'><p>June 17, 2025. I had successfully created a web portfolio</p></div>
         </div>
+        <div className='vlog'>
+          <div className='caption-title'> <h4>Devlog #2: Current WIP</h4></div>
+          <div className='caption-content'><p>June 26, 2025. I updated the web portfolio, adding more data. I also began developing an android application called GNA or Game na ako.</p></div>
+        </div>
       </div>
     </div>
   )
