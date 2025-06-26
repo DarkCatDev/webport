@@ -2,6 +2,9 @@ import React from "react";
 import { Link } from "react-router-dom";
 import '../assets/Template.css';
 import '../assets/Projects.css';
+import gna from '../img/gna.png'
+import olm from '../img/olm.png'
+import aet from '../img/AET.png'
 
 function Projects(){
   return(
@@ -30,11 +33,26 @@ function Projects(){
         </button></Link>
       </div>
 
-      <div className="quote">
-        <i>
-          <p>"Aut inveniam viam aut faciam"</p>
-          <p>"I shall either find a way or make one"</p>
-        </i>
+      <div className="project">
+        <div className="prj">
+          <img src={gna} alt="404" />
+          <p>G.N.A.!</p>
+          <p>Android Development</p>
+          <p>Status: In Devolopment</p>
+        </div>
+        <div className="prj">
+          <img src={olm} alt="404" />
+          <p>Orphan's Life: Medieval</p>
+          <p>Twine Game Development</p>
+          <p>Status: In Progress</p>
+        </div>
+        <div className="prj">
+          <img src={aet} alt="404" />
+          <p>Arithmetic Expression Tokenizer</p>
+          <p>C++ Terminal Project</p>
+          <p>Status: Finished</p>
+        </div>
+
       </div>
     </div>
   )
