@@ -44,3 +44,11 @@
         width: 400px;
     }
 }
+
+
+@media (max-width: 430px){
+    .identity-content {
+        font-size: 7px;
+        width: 300px;
+    }
+}

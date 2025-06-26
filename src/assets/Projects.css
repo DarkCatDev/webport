@@ -40,3 +40,15 @@
         width: 400px;
     }
 }
+
+
+
+@media (max-width: 430px) {
+    .project {
+        grid-template-columns: 1fr;
+    }
+    
+    .prj {
+        width: 300px;
+    }
+}
