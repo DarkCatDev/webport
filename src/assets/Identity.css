@@ -36,3 +36,11 @@
     border-radius: 7px;
     cursor: pointer;
 }
+
+
+@media (max-width: 576px){
+    .identity-content {
+        font-size: 7px;
+        width: 400px;
+    }
+}

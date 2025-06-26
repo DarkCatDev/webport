@@ -9,7 +9,7 @@
 }
 
 .career-content {
-    margin-top: 100px;
+    margin-top: 50px;
     color: aliceblue;
     display: flex;
     flex-direction: column;
@@ -37,4 +37,20 @@
 
 .separator {
     margin: 20px;
+}
+
+
+@media (max-width: 576px) {
+    .title {
+        font-size: 15px;
+    }
+
+    .career-content {
+        margin-top: 20px;
+    }
+    .content {
+        font-size: 10px;
+        padding-left: 100px;
+        padding-right: 100px;
+    }
 }

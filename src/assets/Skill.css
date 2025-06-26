@@ -35,3 +35,24 @@
     border: 1px solid white;
 }
 
+.skills {
+    margin-bottom: 40px;
+}
+
+@media (max-width: 576px) {
+    .skill-content p{
+        font-size: xx-small;
+    }
+
+    .skill-list p{
+        text-align: center;
+    }
+
+    .skill-list h5, h4 {
+        font-size: x-small;
+    }
+
+    .skills {
+        margin-bottom: 20px;
+    }
+}

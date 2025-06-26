@@ -45,3 +45,24 @@
     margin-top: 5%;
     font-size: 20px;
 }
+
+
+@media (max-width: 576px){
+    .my-title {
+        margin-top: 25%;
+        font-size: 15px;
+    }
+
+    .sub-title {
+        font-size: 10px;
+        margin-top: 0px
+    }
+
+    .home-bar {
+        font-size: 10px;
+    }
+
+    .quote {
+        font-size: 14px;
+    }
+}

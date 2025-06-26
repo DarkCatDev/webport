@@ -39,31 +39,44 @@ function Skills(){
         <p>Note: The following skillset are my personal evaluation.</p>
         <h4>Skills</h4>
         <div className="skill-list">
-          <h5>Programming Language</h5>
+          <div className="skills">
+            <h5>Programming Language</h5>
             <p>Java: Familiar</p>
             <p>Python: Familiar</p>
             <p>C++: Familiar</p>
             <p>PHP: Learning</p>
-          <h5>Web Development</h5>
+          </div>
+          <div className="skills">
+            <h5>Web Development</h5>
             <p>HTML: Itermediate</p>
             <p>CSS: Familiar</p>
             <p>Javascript: Beginner</p>
-          <h5>Frameworks</h5>
+          </div>
+          <div className="skills">
+            <h5>Frameworks</h5>
             <p>Django: Familiar</p>
             <p>Laravel: Beginner</p>
             <p>React Js: Beginner</p>
-          <h5>Databases</h5>
+            
+          </div>
+          <div className="skills">
+            <h5>Databases</h5>
             <p>MySql: Familiar</p>
             <p>Xampp: Familiar</p>
             <p>phpMyAdmin: Familiar</p>
-          <h5>Fundamentals</h5>
+          </div>
+          <div className="skills">
+            <h5>Fundamentals</h5>
             <p>Object Oriented Programming: Familiar</p>
             <p>Data Structure and Algorithm: Beginner</p>
-          <h5>Tools and Software</h5>
+          </div>
+          <div className="skills">
+            <h5>Tools and Software</h5>
             <p>Document Formating: Proficient</p>
             <p>Python: Intermediate</p>
             <p>Presentation Design: Familiar</p>
-            <p>Project Management: Beginner</p>        
+            <p>Project Management: Beginner</p>    
+          </div>
         </div>
       </div>
     </div>
