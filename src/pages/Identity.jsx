@@ -36,7 +36,7 @@ function Identity(){
         <div class='identity-content'>
             <p>Name: Arjay Pielago</p>
             <p>Titles: </p>
-            <p>&nbsp;&nbsp;Entry-Level Mobile Developer</p>
+            <p>&nbsp;&nbsp;Entry-Level Software Developer</p>
             <p>&nbsp;&nbsp;Entry-Level Web App Developer</p>
             <p>&nbsp;&nbsp;Aspiring Game Developer</p>
             <p>&nbsp;&nbsp;BS Computer Science Fresh Graduate</p>

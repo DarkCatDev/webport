@@ -2,9 +2,10 @@ import React from "react";
 import { Link } from "react-router-dom";
 import '../assets/Template.css';
 import '../assets/Projects.css';
-import gna from '../img/gna.png'
-import olm from '../img/olm.png'
-import aet from '../img/AET.png'
+import gna from '../img/gna.png';
+import olm from '../img/olm.png';
+import aet from '../img/AET.png';
+import rrc from '../img/rrc.png';
 
 function Projects(){
   return(
@@ -37,19 +38,25 @@ function Projects(){
         <div className="prj">
           <img src={gna} alt="404" />
           <p>G.N.A.!</p>
-          <p>Android Development</p>
-          <p>Status: In Development</p>
+          <p>Software Development</p>
+          <p>Status: Planning Phase</p>
         </div>
         <div className="prj">
           <img src={olm} alt="404" />
           <p>Orphan's Life: Medieval</p>
           <p>Twine Game Development</p>
-          <p>Status: In Progress</p>
+          <p>Status: In Hiatus</p>
         </div>
         <div className="prj">
           <img src={aet} alt="404" />
           <p>Arithmetic Expression Tokenizer</p>
           <p>C++ Terminal Project</p>
+          <p>Status: Finished</p>
+        </div>
+        <div className="prj">
+          <img src={rrc} alt="404"/>
+          <p>Restaurant Reservation Chatbot</p>
+          <p>Java Terminal Project</p>
           <p>Status: Finished</p>
         </div>
 
